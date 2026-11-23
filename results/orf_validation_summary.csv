@@ -1,0 +1,61 @@
+Genome,Gene,Functional_Role,Status,Length_bp,Intact_ORF,SNP_Count_vs_Ref,Pct_Identity
+OZ586908,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586905,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586902,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586901,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586897,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586896,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586895,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586894,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,0.0,100.0
+OZ586893,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586892,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586891,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586889,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586888,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586884,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586883,OPG057,F13L (Antiviral Target - Tecovirimat),Intact CDS,1119,True,2.0,99.821
+OZ586908,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,4.0,99.929
+OZ586905,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,4.0,99.929
+OZ586902,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586901,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586897,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586896,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586895,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586894,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,4.0,99.929
+OZ586893,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586892,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586891,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586889,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586888,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586884,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586883,OPG210,B21R (Surface Glycoprotein / Immune Evasion),Intact CDS,5643,True,3.0,99.947
+OZ586908,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,1.0,99.944
+OZ586905,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586902,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586901,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586897,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586896,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586895,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,1.0,99.944
+OZ586894,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586893,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586892,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586891,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586889,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,1.0,99.944
+OZ586888,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586884,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,0.0,100.0
+OZ586883,OPG085,O2L (Core Structural / Housekeeping),Intact CDS,1776,True,1.0,99.944
+OZ586908,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586905,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586902,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586901,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586897,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586896,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586895,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586894,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586893,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586892,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586891,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586889,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586888,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586884,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
+OZ586883,OPG032,C3L (Complement Control / Virulence),Absent / Deleted,0,False,,0.0
