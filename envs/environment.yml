@@ -1,0 +1,14 @@
+name: pox-cds
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - biopython
+  - blast
+  - matplotlib
+  - pandas
+  - pip
+  - python=3.11
+  - seaborn
+
+prefix: "/Users/prakruthi/.local/share/mamba/envs/pox-cds"
